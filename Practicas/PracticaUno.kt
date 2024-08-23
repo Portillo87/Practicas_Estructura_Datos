@@ -30,6 +30,5 @@ fun main() {
             return
         }
     }
-
     println("El resultado de la operación $numeroUno $operacion $numeroDos es $resultado")
 }
